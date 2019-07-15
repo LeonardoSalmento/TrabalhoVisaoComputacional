@@ -1,1 +1,3 @@
 # TrabalhoVisaoComputacional
+
+![](quant.png)
